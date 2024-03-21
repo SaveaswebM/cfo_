@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react"
 
 export default function Header() {
   return (
@@ -1009,14 +1009,14 @@ export default function Header() {
                 by the readable content of a page when looking at its layout.
                 The point of using Lorem is Ipsum is that it has a more-or-less
                 normal distribution of letters, as the of a opposed to using
-                'Content here, content here', making it look like readable
+                Content here, content here, making it look like readable
                 English.page when looking at its layout.
               </p>
               <p>
                 <span>
                   The point of using Lorem Ipsum is that it has a more-or-less
-                  normal distri bution of letters, as opposed to using 'Content
-                  here, content here', making it look like readable English.
+                  normal distri bution of letters, as opposed to using Content
+                  here, content here, making it look like readable English.
                 </span>
               </p>
             </div>
@@ -1877,12 +1877,12 @@ export default function Header() {
                     available, but the majority have
                     <br />
                     suffered alteration in some form, by injected humour, or
-                    randomised words which don't
+                    randomised words which dont
                     <br />
                     look even slightly believable. If you are going to use a
                     passage of Lorem Ipsum, you need
                     <br />
-                    to be sure there isn't anything embarrassing..
+                    to be sure there isnt anything embarrassing..
                   </p>
                   <div className="fb_user_name">
                     <div className="img_size">
@@ -1920,12 +1920,12 @@ export default function Header() {
                     available, but the majority have
                     <br />
                     suffered alteration in some form, by injected humour, or
-                    randomised words which don't
+                    randomised words which dont
                     <br />
                     look even slightly believable. If you are going to use a
                     passage of Lorem Ipsum, you need
                     <br />
-                    to be sure there isn't anything embarrassing..
+                    to be sure there isnt anything embarrassing..
                   </p>
                   <div className="fb_user_name">
                     <div className="img_size">
@@ -1963,12 +1963,12 @@ export default function Header() {
                     available, but the majority have
                     <br />
                     suffered alteration in some form, by injected humour, or
-                    randomised words which don't
+                    randomised words which dont
                     <br />
                     look even slightly believable. If you are going to use a
                     passage of Lorem Ipsum, you need
                     <br />
-                    to be sure there isn't anything embarrassing..
+                    to be sure there isnt anything embarrassing..
                   </p>
                   <div className="fb_user_name">
                     <div className="img_size">
