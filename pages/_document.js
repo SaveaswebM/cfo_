@@ -38,21 +38,8 @@ export default function Document() {
         <Main />
         <NextScript />
        
-    <script src="assests/js/jquery-3.5.1.min.js"></script>
+
     
-    <script src="assests/js/bootstrap.min.js"></script>
-   
-    <script src="assests/js/splitting.min.js"></script>
-    <script src="assests/js/owl.carousel.min.js"></script>
-  
-    <script src="assests/js/jquery.mCustomScrollbar.concat.min.js"></script>
-
-    <script src="assests/js/jquery.magnific-popup.js"></script>
-
-    <script src="assests/js/contact_form.js"></script>
-   
-    <script src="assests/js/custom.js"></script>
-
       </body>
     </Html>
   );
