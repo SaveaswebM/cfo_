@@ -159,12 +159,7 @@ export default function Team() {
       alt=""
       data-parallax='{"y" : 100 }'
     />
-    <img
-      src="assets/img/images/h2_about_shape03.png"
-      alt=""
-      data-aos="fade-left"
-      data-aos-delay={400}
-    />
+  
   </div>
 </section>
 
