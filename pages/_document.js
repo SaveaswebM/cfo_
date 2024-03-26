@@ -29,22 +29,7 @@ export default function Document() {
         <Main />
         <NextScript />
        
-        <script src="assests/js/wow.min.js"></script>
-
-        <script src="assets/js/vendor/jquery-3.6.0.min.js"></script>
-
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/jquery.odometer.min.js"></script>
-    <script src="assets/js/jquery.appear.js"></script>
-    <script src="assets/js/gsap.js"></script>
-    <script src="assets/js/ScrollTrigger.js"></script>
-    <script src="assets/js/SplitText.js"></script>
-    <script src="assets/js/gsap-animation.js"></script>
-    <script src="assets/js/jquery.parallaxScroll.min.js"></script>
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossOrigin="anonymous"></script>
-    <script src="assets/js/main.js"></script>
+    
     
       </body>
     </Html>
