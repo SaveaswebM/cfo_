@@ -2,7 +2,7 @@ import React from 'react'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import What_we_do from './components/What_we_do'
-import Services from './components/services'
+import Services from './components/Service'
 import Team from './components/Team'
 
 export default function Layout() {
